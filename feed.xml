@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>WX&#x27;s Dev Diary</title>
+    <link href="https://github.com/wangxxss/WX-Dev-Diary/feed.xml" rel="self" />
+    <link href="https://github.com/wangxxss/WX-Dev-Diary" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>wxxss</name>
+    </author>
+    <id>https://github.com/wangxxss/WX-Dev-Diary</id>
+
+</feed>
